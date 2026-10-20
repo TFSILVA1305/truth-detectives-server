@@ -1,0 +1,794 @@
+[
+  {
+    "id": "creation",
+    "title": {
+      "en": "Creation",
+      "pt": "A Criação"
+    },
+    "intro": {
+      "en": "God made the whole world in six days! Four storytellers will tell it — but only ONE tells it exactly right. Detective, find who tells the TRUTH! 🔍",
+      "pt": "Deus fez o mundo inteiro em seis dias! Quatro contadores vão contar — mas só UM conta tudo certinho. Detetive, descubra quem conta a VERDADE! 🔍"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "God said, 'Let there be light!' on the first day. He made the sky, the land and the seas, the plants — and then, on the THIRD day, the sun, the moon and the stars. After the sea creatures, birds and animals, He made people in His image, and rested on the seventh day.",
+          "pt": "Deus disse: 'Haja luz!' no primeiro dia. Ele fez o céu, a terra e os mares, as plantas — e então, no TERCEIRO dia, o sol, a lua e as estrelas. Depois dos bichos do mar, das aves e dos animais, fez as pessoas à Sua imagem, e descansou no sétimo dia."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the sun, moon and stars came on day FOUR, not day three — one sneaky little number! 4️⃣",
+          "pt": "O detalhe trocado era: o sol, a lua e as estrelas vieram no dia QUATRO, não no três — um numerozinho sorrateiro! 4️⃣"
+        }
+      },
+      {
+        "text": {
+          "en": "God said, 'Let there be light!' on the first day. He made the sky, the land and seas, the plants, the sun, moon and stars, the sea creatures, birds and animals — and finally people, in His own image. Then, on the SIXTH day, God rested from all His work.",
+          "pt": "Deus disse: 'Haja luz!' no primeiro dia. Ele fez o céu, a terra e os mares, as plantas, o sol, a lua e as estrelas, os bichos do mar, as aves e os animais — e por fim as pessoas, à Sua imagem. Então, no SEXTO dia, Deus descansou de toda a Sua obra."
+        },
+        "blooper": {
+          "en": "The swapped detail was: God rested on the SEVENTH day — a single word made all the difference! 7️⃣",
+          "pt": "O detalhe trocado era: Deus descansou no SÉTIMO dia — uma palavrinha fez toda a diferença! 7️⃣"
+        }
+      },
+      {
+        "text": {
+          "en": "God said, 'Let there be light!' on the very first day. He made the sky, the land and seas, the plants, the sun, moon and stars, sea creatures, birds and animals — and finally people, in His own image. Then, on the SEVENTH day, God rested.",
+          "pt": "Deus disse: 'Haja luz!' logo no primeiro dia. Ele fez o céu, a terra e os mares, as plantas, o sol, a lua e as estrelas, os bichos do mar, as aves e os animais — e por fim as pessoas, à Sua imagem. Então, no SÉTIMO dia, Deus descansou."
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "God said, 'Let there be light!' on the first day. He made the sky, the land and the seas — then the sun, moon and stars, and only AFTER them the green plants. Then the sea creatures, birds and animals — and finally people, in His own image.",
+          "pt": "Deus disse: 'Haja luz!' no primeiro dia. Ele fez o céu, a terra e os mares — depois o sol, a lua e as estrelas, e só DEPOIS deles as plantas verdes. Então os bichos do mar, as aves e os animais — e por fim as pessoas, à Sua imagem."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the PLANTS came first (day 3), THEN the lights (day 4) — a sneaky swap! 🌱",
+          "pt": "O detalhe trocado era: as PLANTAS vieram primeiro (dia 3), DEPOIS as luzes (dia 4) — uma troca sorrateira! 🌱"
+        }
+      }
+    ],
+    "correctIndex": 2,
+    "verse": {
+      "ref": {
+        "en": "Genesis 1:31",
+        "pt": "Gênesis 1:31"
+      },
+      "text": {
+        "en": "God saw everything that he had made, and, behold, it was very good.",
+        "pt": "E viu Deus tudo quanto tinha feito, e eis que era muito bom."
+      }
+    },
+    "note": {
+      "en": "Everything God makes is good and true — including YOU! 💛",
+      "pt": "Tudo que Deus faz é bom e verdadeiro — incluindo VOCÊ! 💛"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "noah",
+    "title": {
+      "en": "Noah's Ark",
+      "pt": "A Arca de Noé"
+    },
+    "intro": {
+      "en": "God asked Noah to build a giant boat! Four storytellers will tell what happened — only one tells the whole TRUTH. 🦁",
+      "pt": "Deus pediu a Noé que construísse um barco gigante! Quatro contadores vão contar o que aconteceu — só um conta toda a VERDADE. 🦁"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "God told Noah to build a huge ark. Noah brought two of every kind of animal inside — seven pairs of the clean ones. Rain fell for 40 days and 40 nights. Later, a dove brought back an olive leaf, and God set a rainbow in the sky as His promise.",
+          "pt": "Deus mandou Noé construir uma arca enorme. Noé colocou dois de cada espécie de animal dentro dela — sete casais dos animais puros. Choveu por 40 dias e 40 noites. Depois, uma pomba trouxe um ramo de oliveira, e Deus pôs um arco-íris no céu como Sua promessa."
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "God told Noah to build a huge ark. Rain fell for 150 days and 150 nights without ever stopping, while Noah and the animals waited inside.",
+          "pt": "Deus mandou Noé construir uma arca enorme. Choveu por 150 dias e 150 noites sem parar, enquanto Noé e os animais esperavam dentro dela."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the RAIN fell for 40 days and 40 nights — 150 was how long the waters stayed high! 🌧️",
+          "pt": "O detalhe trocado era: a CHUVA caiu por 40 dias e 40 noites — 150 foi o tempo que as águas ficaram altas! 🌧️"
+        }
+      },
+      {
+        "text": {
+          "en": "After the rain, Noah sent out a raven, and the raven came flying back carrying a fresh olive leaf in its beak. Then God set a rainbow in the sky.",
+          "pt": "Depois da chuva, Noé soltou um corvo, e o corvo voltou voando trazendo um ramo de oliveira fresquinho no bico. Então Deus pôs um arco-íris no céu."
+        },
+        "blooper": {
+          "en": "The swapped detail was: it was the DOVE that brought the olive leaf — the raven just flew back and forth! 🕊️",
+          "pt": "O detalhe trocado era: foi a POMBA que trouxe o ramo de oliveira — o corvo só ia e voltava voando! 🕊️"
+        }
+      },
+      {
+        "text": {
+          "en": "Noah lined up all the animals and marched them into the ark in groups of exactly TEN — ten lions, ten elephants, ten giraffes!",
+          "pt": "Noé enfileirou todos os animais e os fez entrar na arca em grupos de exatamente DEZ — dez leões, dez elefantes, dez girafas!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: the animals came in TWO by TWO — imagine counting them all! 🦒🦒",
+          "pt": "O detalhe trocado era: os animais entraram de DOIS EM DOIS — imagine contar todos eles! 🦒🦒"
+        }
+      }
+    ],
+    "correctIndex": 0,
+    "verse": {
+      "ref": {
+        "en": "Genesis 9:13",
+        "pt": "Gênesis 9:13"
+      },
+      "text": {
+        "en": "I set my rainbow in the cloud, and it will be a sign of a covenant between me and the earth.",
+        "pt": "O meu arco tenho posto na nuvem; este será por sinal do concerto entre mim e a terra."
+      }
+    },
+    "note": {
+      "en": "God always keeps His promises — His word is true forever! 🌈",
+      "pt": "Deus sempre cumpre Suas promessas — a Palavra dEle é verdadeira para sempre! 🌈"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "redsea",
+    "title": {
+      "en": "The Red Sea",
+      "pt": "O Mar Vermelho"
+    },
+    "intro": {
+      "en": "Pharaoh's army was chasing God's people! Four storytellers will tell how God saved them — only one tells the TRUTH. 🌊",
+      "pt": "O exército do faraó perseguia o povo de Deus! Quatro contadores vão contar como Deus os salvou — só um conta a VERDADE. 🌊"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "When the Egyptian army came close, Moses told everyone to jump into the sea and SWIM across as fast as they could!",
+          "pt": "Quando o exército egípcio se aproximou, Moisés mandou todos pularem no mar e ATRAVESSAREM a nado o mais rápido que pudessem!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: nobody swam — they walked across on DRY ground! 🏜️",
+          "pt": "O detalhe trocado era: ninguém nadou — eles atravessaram a pé em terra SECA! 🏜️"
+        }
+      },
+      {
+        "text": {
+          "en": "Moses lifted his staff high and STRUCK the sea with all his strength — and the waters split in two with a giant splash!",
+          "pt": "Moisés levantou seu cajado e BATEU no mar com toda a força — e as águas se dividiram em duas com um respingo gigante!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: Moses STRETCHED OUT his hand over the sea — he struck a ROCK with the staff in a different story! 🪨",
+          "pt": "O detalhe trocado era: Moisés ESTENDEU a mão sobre o mar — ele bateu numa ROCHA com o cajado em outra história! 🪨"
+        }
+      },
+      {
+        "text": {
+          "en": "The sea opened wide, the Israelites walked through on dry ground, and Pharaoh's whole army crossed safely right behind them, waving hello.",
+          "pt": "O mar se abriu, os israelitas atravessaram em terra seca, e todo o exército do faraó atravessou em segurança logo atrás deles, acenando olá."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the waters flowed BACK and covered the Egyptian army — nobody waved hello! 🌊",
+          "pt": "O detalhe trocado era: as águas VOLTARAM e cobriram o exército egípcio — ninguém acenou olá! 🌊"
+        }
+      },
+      {
+        "text": {
+          "en": "Moses stretched out his hand over the sea. God drove the sea back with a mighty wind, and the Israelites walked through on DRY ground, with walls of water on their right and on their left. When the Egyptians followed, the waters flowed back and covered them.",
+          "pt": "Moisés estendeu a mão sobre o mar. Deus fez o mar recuar com um vento forte, e os israelitas atravessaram em terra SECA, com muralhas de água à direita e à esquerda. Quando os egípcios os seguiram, as águas voltaram e os cobriram."
+        },
+        "blooper": null
+      }
+    ],
+    "correctIndex": 3,
+    "verse": {
+      "ref": {
+        "en": "Exodus 14:14",
+        "pt": "Êxodo 14:14"
+      },
+      "text": {
+        "en": "Yahweh will fight for you, and you shall be still.",
+        "pt": "O Senhor pelejará por vós, e vós vos calareis."
+      }
+    },
+    "note": {
+      "en": "When we trust God, He fights for us. That is always true! 💪",
+      "pt": "Quando confiamos em Deus, Ele luta por nós. Isso é sempre verdade! 💪"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "david",
+    "title": {
+      "en": "David and Goliath",
+      "pt": "Davi e Golias"
+    },
+    "intro": {
+      "en": "A giant laughed at God's army — until a young shepherd boy arrived! Four storytellers, one TRUTH. 🪨",
+      "pt": "Um gigante zombava do exército de Deus — até que um jovem pastor chegou! Quatro contadores, uma VERDADE. 🪨"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "David put on King Saul's heavy armor, grabbed a sharp sword, marched straight up to Goliath and defeated him in an epic sword fight!",
+          "pt": "Davi vestiu a pesada armadura do rei Saul, pegou uma espada afiada, marchou até Golias e o venceu numa luta de espadas épica!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: David TOOK OFF Saul's armor — it was too heavy! He fought with a sling and stones. 🪨",
+          "pt": "O detalhe trocado era: Davi TIROU a armadura de Saul — era pesada demais! Ele lutou com funda e pedras. 🪨"
+        }
+      },
+      {
+        "text": {
+          "en": "Young David took his staff, chose FIVE smooth stones from the stream, and took his sling. He told Goliath, 'The battle is the LORD's!' His stone sank into the giant's forehead — and Goliath fell face down!",
+          "pt": "O jovem Davi pegou seu cajado, escolheu CINCO pedrinhas lisas do ribeiro e pegou sua funda. Ele disse a Golias: 'Do Senhor é a guerra!' A pedra afundou na testa do gigante — e Golias caiu de cara no chão!"
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "David picked up THREE tiny pebbles from the stream, threw all three at the very same time, and every single one bonked Goliath on the head!",
+          "pt": "Davi pegou TRÊS pedrinhas do ribeiro, jogou as três ao mesmo tempo, e cada uma delas acertou a cabeça de Golias!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: David chose FIVE stones — but ONE stone was enough! 🎯",
+          "pt": "O detalhe trocado era: Davi escolheu CINCO pedras — mas UMA pedra foi suficiente! 🎯"
+        }
+      },
+      {
+        "text": {
+          "en": "Young David chose FIVE smooth stones from the stream — then loaded ALL FIVE into his sling at once and launched them together at Goliath!",
+          "pt": "O jovem Davi escolheu CINCO pedrinhas lisas do ribeiro — então colocou TODAS AS CINCO na funda de uma vez e as lançou juntas contra Golias!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: ONE stone was enough — it sank into Goliath's forehead! The other four stayed in the bag. 🎯",
+          "pt": "O detalhe trocado era: UMA pedra foi suficiente — ela afundou na testa de Golias! As outras quatro ficaram na bolsa. 🎯"
+        }
+      }
+    ],
+    "correctIndex": 1,
+    "verse": {
+      "ref": {
+        "en": "1 Samuel 17:47",
+        "pt": "1 Samuel 17:47"
+      },
+      "text": {
+        "en": "…for the battle is Yahweh's…",
+        "pt": "…porque do Senhor é a guerra…"
+      }
+    },
+    "note": {
+      "en": "Big problems are small for God — be brave, He is with you! 🛡️",
+      "pt": "Problemas grandes são pequenos para Deus — tenha coragem, Ele está com você! 🛡️"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "jonah",
+    "title": {
+      "en": "Jonah",
+      "pt": "Jonas"
+    },
+    "intro": {
+      "en": "God gave Jonah an important job — but Jonah ran the other way! Four storytellers will tell it — one tells the TRUTH. 🐋",
+      "pt": "Deus deu a Jonas uma missão importante — mas Jonas fugiu para o outro lado! Quatro contadores vão contar — um conta a VERDADE. 🐋"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "God sent Jonah to preach in Nineveh, but Jonah sailed toward Tarshish instead. A great storm came, and Jonah was thrown into the sea. A great fish swallowed him! After THREE days and three nights, he prayed — then the fish spit him onto the beach, and this time Jonah obeyed.",
+          "pt": "Deus enviou Jonas para pregar em Nínive, mas Jonas navegou para Társis. Veio uma grande tempestade, e Jonas foi lançado ao mar. Um grande peixe o engoliu! Depois de TRÊS dias e três noites, ele orou — então o peixe o vomitou na praia, e desta vez Jonas obedeceu."
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "Jonah stayed inside the great fish for SEVEN days and seven nights, playing cards with the fish's lunch, until the fish finally spit him out.",
+          "pt": "Jonas ficou dentro do grande peixe por SETE dias e sete noites, jogando cartas com o almoço do peixe, até que o peixe finalmente o vomitou."
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jonah was inside the fish for THREE days and three nights — no card games mentioned! 🃏",
+          "pt": "O detalhe trocado era: Jonas ficou no peixe por TRÊS dias e três noites — sem jogos de cartas! 🃏"
+        }
+      },
+      {
+        "text": {
+          "en": "Jonah finally preached in Nineveh, and all the people LAUGHED at him, threw tomatoes, and completely ignored his message.",
+          "pt": "Jonas finalmente pregou em Nínive, e todo o povo RIU dele, jogou tomates e ignorou totalmente sua mensagem."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the people of Nineveh BELIEVED and said sorry — from the king to the smallest child! No tomatoes! 🍅",
+          "pt": "O detalhe trocado era: o povo de Nínive ACREDITOU e pediu perdão — do rei até a criancinha! Sem tomates! 🍅"
+        }
+      },
+      {
+        "text": {
+          "en": "When God forgave Nineveh, Jonah was the HAPPIEST person in the whole city! He danced in the streets and threw a giant party with cake for everyone!",
+          "pt": "Quando Deus perdoou Nínive, Jonas foi a pessoa MAIS FELIZ da cidade! Ele dançou nas ruas e fez uma festança com bolo para todo mundo!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jonah was actually ANGRY that God forgave them — he still had a lot to learn about mercy! 😤",
+          "pt": "O detalhe trocado era: Jonas ficou BRAVO porque Deus os perdoou — ele ainda tinha muito a aprender sobre misericórdia! 😤"
+        }
+      }
+    ],
+    "correctIndex": 0,
+    "verse": {
+      "ref": {
+        "en": "Jonah 2:9",
+        "pt": "Jonas 2:9"
+      },
+      "text": {
+        "en": "Salvation is of Yahweh.",
+        "pt": "Do Senhor vem a salvação."
+      }
+    },
+    "note": {
+      "en": "God loves giving second chances — His mercy is always true! 💙",
+      "pt": "Deus adora dar segundas chances — a misericórdia dEle é sempre verdadeira! 💙"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "daniel",
+    "title": {
+      "en": "Daniel",
+      "pt": "Daniel"
+    },
+    "intro": {
+      "en": "Daniel loved God and prayed every day — even when praying became against the law! Four storytellers, one TRUTH. 🦁",
+      "pt": "Daniel amava a Deus e orava todo dia — mesmo quando orar virou crime! Quatro contadores, uma VERDADE. 🦁"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "When the king signed the new law, Daniel wisely STOPPED praying for 30 days so that nobody would catch him and throw him to the lions.",
+          "pt": "Quando o rei assinou a nova lei, Daniel sabiamente PAROU de orar por 30 dias para ninguém pegá-lo e jogá-lo aos leões."
+        },
+        "blooper": {
+          "en": "The swapped detail was: Daniel KEPT praying three times a day, windows wide open — brave as a lion himself! 🦁",
+          "pt": "O detalhe trocado era: Daniel CONTINUOU orando três vezes ao dia, com as janelas abertas — corajoso como um leão! 🦁"
+        }
+      },
+      {
+        "text": {
+          "en": "Daniel was thrown into the lions' den because the guards caught him STEALING golden cups from the king's treasure room.",
+          "pt": "Daniel foi lançado na cova dos leões porque os guardas o pegaram ROUBANDO copos de ouro do tesouro do rei."
+        },
+        "blooper": {
+          "en": "The swapped detail was: Daniel's only 'crime' was PRAYING to God — he never stole a thing! 🙏",
+          "pt": "O detalhe trocado era: o único 'crime' de Daniel foi ORAR a Deus — ele nunca roubou nada! 🙏"
+        }
+      },
+      {
+        "text": {
+          "en": "Daniel prayed to God THREE times a day, just as he always did. Jealous officials tricked King Darius into signing the cruel law, and Daniel was thrown into the lions' den. But God sent His angel and SHUT the lions' mouths — Daniel spent the night safe and sound!",
+          "pt": "Daniel orava a Deus TRÊS vezes ao dia, como sempre fez. Oficiais invejosos enganaram o rei Dario para assinar a lei cruel, e Daniel foi lançado na cova dos leões. Mas Deus enviou Seu anjo e FECHOU a boca dos leões — Daniel passou a noite são e salvo!"
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "Daniel was thrown into the lions' den — but before the lions even woke up, God's angel gently CARRIED Daniel out through the locked door!",
+          "pt": "Daniel foi lançado na cova dos leões — mas antes que os leões acordassem, o anjo de Deus CARREGOU Daniel para fora pela porta trancada!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: the angel SHUT the lions' mouths — Daniel spent the whole night WITH the lions, safe and sound! 😴",
+          "pt": "O detalhe trocado era: o anjo FECHOU a boca dos leões — Daniel passou a noite inteira COM os leões, são e salvo! 😴"
+        }
+      }
+    ],
+    "correctIndex": 2,
+    "verse": {
+      "ref": {
+        "en": "Daniel 6:22",
+        "pt": "Daniel 6:22"
+      },
+      "text": {
+        "en": "My God has sent his angel, and has shut the lions' mouths…",
+        "pt": "O meu Deus enviou o seu anjo e fechou a boca dos leões…"
+      }
+    },
+    "note": {
+      "en": "Stay true to God like Daniel — He protects those who trust Him! 🛡️",
+      "pt": "Seja fiel a Deus como Daniel — Ele protege quem confia nEle! 🛡️"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "birth",
+    "title": {
+      "en": "The Birth of Jesus",
+      "pt": "O Nascimento de Jesus"
+    },
+    "intro": {
+      "en": "The most wonderful night in history! Four storytellers will tell it — only one tells it exactly right. ⭐",
+      "pt": "A noite mais maravilhosa da história! Quatro contadores vão contar — só um conta tudo exatamente certo. ⭐"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "Jesus was born in NAZARETH, in a big comfortable palace, while trumpets played and fireworks lit up the sky!",
+          "pt": "Jesus nasceu em NAZARÉ, num grande palácio confortável, ao som de trombetas e fogos de artifício no céu!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jesus was born in BETHLEHEM, in a humble stable — no palace, no fireworks! 🏠",
+          "pt": "O detalhe trocado era: Jesus nasceu em BELÉM, num estábulo humilde — sem palácio, sem fogos! 🏠"
+        }
+      },
+      {
+        "text": {
+          "en": "Jesus was born in BETHLEHEM and laid in a MANGER, because there was no room for them in the inn. Angels appeared to shepherds with the good news, and wise men followed a bright star, bringing gifts of GOLD, FRANKINCENSE and MYRRH.",
+          "pt": "Jesus nasceu em BELÉM e foi deitado numa MANJEDOURA, porque não havia lugar para eles na estalagem. Anjos apareceram aos pastores com a boa notícia, e magos seguiram uma estrela brilhante, trazendo presentes de OURO, INCENSO e MIRRA."
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "The SHEPHERDS were so excited that they ran to the shops and bought expensive gifts of gold, frankincense and myrrh for the baby Jesus.",
+          "pt": "Os PASTORES ficaram tão animados que correram às lojas e compraram presentes caros de ouro, incenso e mirra para o bebê Jesus."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the WISE MEN brought those gifts — the shepherds brought the good news, running to tell everyone! 📣",
+          "pt": "O detalhe trocado era: os MAGOS trouxeram esses presentes — os pastores levaram a boa notícia, correndo para contar a todos! 📣"
+        }
+      },
+      {
+        "text": {
+          "en": "Mary and Joseph easily found a cozy ROOM at the inn, with a soft bed, warm blankets, and room service for the baby.",
+          "pt": "Maria e José encontraram facilmente um QUARTO aconchegante na estalagem, com cama macia, cobertores quentinhos e serviço de quarto para o bebê."
+        },
+        "blooper": {
+          "en": "The swapped detail was: there was NO room in the inn — baby Jesus slept in a manger! 🌾",
+          "pt": "O detalhe trocado era: NÃO havia lugar na estalagem — o bebê Jesus dormiu numa manjedoura! 🌾"
+        }
+      }
+    ],
+    "correctIndex": 1,
+    "verse": {
+      "ref": {
+        "en": "Luke 2:11",
+        "pt": "Lucas 2:11"
+      },
+      "text": {
+        "en": "For there is born to you today, in David's city, a Savior, who is Christ the Lord.",
+        "pt": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor."
+      }
+    },
+    "note": {
+      "en": "Jesus is God's greatest true gift — Merry Christmas every day! 🎄",
+      "pt": "Jesus é o maior presente verdadeiro de Deus — Feliz Natal todos os dias! 🎄"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "loaves",
+    "title": {
+      "en": "Loaves and Fishes",
+      "pt": "Pães e Peixes"
+    },
+    "intro": {
+      "en": "A huge crowd was hungry — and one boy shared his lunch! Four storytellers, one TRUTH. 🐟",
+      "pt": "Uma multidão estava faminta — e um menino dividiu seu lanche! Quatro contadores, uma VERDADE. 🐟"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "Jesus looked at the hungry crowd of about 500 people and fed every single one of them with the boy's small lunch.",
+          "pt": "Jesus olhou para a multidão faminta de cerca de 500 pessoas e alimentou cada uma delas com o lanchinho do menino."
+        },
+        "blooper": {
+          "en": "The swapped detail was: there were about FIVE THOUSAND men — plus women and children! That's a LOT of sandwiches! 🥪",
+          "pt": "O detalhe trocado era: eram cerca de CINCO MIL homens — além de mulheres e crianças! Isso é MUITO sanduíche! 🥪"
+        }
+      },
+      {
+        "text": {
+          "en": "A RICH MERCHANT felt generous that day and donated a whole cart full of bread and fish to feed the crowd.",
+          "pt": "Um MERCADOR RICO estava generoso naquele dia e doou uma carroça inteira de pães e peixes para alimentar a multidão."
+        },
+        "blooper": {
+          "en": "The swapped detail was: it was a BOY who shared his lunch — five loaves and two little fish! Never too small to share. 🧺",
+          "pt": "O detalhe trocado era: foi um MENINO que dividiu seu lanche — cinco pães e dois peixinhos! Nunca é pequeno demais para dividir. 🧺"
+        }
+      },
+      {
+        "text": {
+          "en": "Everyone ate until they were full, and the disciples picked up SEVEN baskets full of leftover pieces.",
+          "pt": "Todos comeram até ficarem satisfeitos, e os discípulos recolheram SETE cestos cheios de pedaços que sobraram."
+        },
+        "blooper": {
+          "en": "The swapped detail was: they filled TWELVE baskets — one for each disciple! (Seven baskets was a different miracle.) 🧺",
+          "pt": "O detalhe trocado era: eles encheram DOZE cestos — um para cada discípulo! (Sete cestos foi outro milagre.) 🧺"
+        }
+      },
+      {
+        "text": {
+          "en": "A boy shared his lunch: FIVE barley loaves and TWO small fish. Jesus thanked God, broke the bread, and everyone ate — about FIVE THOUSAND people! Then the disciples filled TWELVE baskets with the leftovers!",
+          "pt": "Um menino dividiu seu lanche: CINCO pães de cevada e DOIS peixinhos. Jesus agradeceu a Deus, partiu os pães, e todos comeram — cerca de CINCO MIL pessoas! Depois os discípulos encheram DOZE cestos com as sobras!"
+        },
+        "blooper": null
+      }
+    ],
+    "correctIndex": 3,
+    "verse": {
+      "ref": {
+        "en": "John 6:35",
+        "pt": "João 6:35"
+      },
+      "text": {
+        "en": "I am the bread of life.",
+        "pt": "Eu sou o pão da vida."
+      }
+    },
+    "note": {
+      "en": "Little gifts become big miracles when we share — that's truly wonderful! 🎁",
+      "pt": "Pequenos presentes viram grandes milagres quando dividimos — isso é verdadeiramente maravilhoso! 🎁"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "samaritan",
+    "title": {
+      "en": "The Good Samaritan",
+      "pt": "O Bom Samaritano"
+    },
+    "intro": {
+      "en": "A hurt man lay by the road. Three people passed by… but who truly helped? Four storytellers, one TRUTH. ❤️",
+      "pt": "Um homem ferido jazia à beira do caminho. Três pessoas passaram… mas quem realmente ajudou? Quatro contadores, uma VERDADE. ❤️"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "Robbers beat a man and left him half dead on the road. A PRIEST saw him and passed by on the other side. A LEVITE saw him and passed by too. But a SAMARITAN stopped, felt sorry for him, bandaged his wounds, took him to an inn, PAID for his care, and promised to come back!",
+          "pt": "Ladrões espancaram um homem e o deixaram quase morto na estrada. Um SACERDOTE o viu e passou do outro lado. Um LEVITA o viu e passou também. Mas um SAMARITANO parou, teve pena dele, fez curativos, levou-o a uma estalagem, PAGOU seus cuidados e prometeu voltar!"
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "Robbers beat a man and left him half dead. A LEVITE came down the road first, saw him, and passed by on the other side. Then a PRIEST arrived, saw him, and passed by too. But a Samaritan stopped, bandaged his wounds, took him to an inn, paid for his care, and promised to come back!",
+          "pt": "Ladrões espancaram um homem e o deixaram quase morto. Um LEVITA descia pela estrada primeiro, viu-o e passou do outro lado. Então um SACERDOTE chegou, viu-o e passou também. Mas um samaritano parou, fez curativos, levou-o a uma estalagem, pagou seus cuidados e prometeu voltar!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: the PRIEST came first, THEN the Levite — the storyteller flipped their order! 🔄",
+          "pt": "O detalhe trocado era: o SACERDOTE veio primeiro, DEPOIS o levita — o contador trocou a ordem deles! 🔄"
+        }
+      },
+      {
+        "text": {
+          "en": "Robbers beat a man and left him half dead. A priest passed by, a Levite passed by — but a Samaritan stopped, bandaged his wounds, took him to an inn, paid the innkeeper two silver coins, and left, never to return.",
+          "pt": "Ladrões espancaram um homem e o deixaram quase morto. Um sacerdote passou longe, um levita passou longe — mas um samaritano parou, fez curativos, levou-o a uma estalagem, pagou ao estalajadeiro duas moedas de prata e foi embora, para nunca mais voltar."
+        },
+        "blooper": {
+          "en": "The swapped detail was: he said 'whatever MORE you spend, I will repay you when I COME BACK' — he was definitely returning! 🏨",
+          "pt": "O detalhe trocado era: ele disse 'o que MAIS gastares, eu te pagarei quando VOLTAR' — ele ia voltar, sim! 🏨"
+        }
+      },
+      {
+        "text": {
+          "en": "When Jesus asked, 'Which of these three proved to be a neighbor to the hurt man?' the teacher of the law answered, 'The one who showed him mercy.' And Jesus said to him, 'Go and do the OPPOSITE.'",
+          "pt": "Quando Jesus perguntou: 'Qual destes três foi o próximo do homem ferido?' o mestre da lei respondeu: 'Aquele que teve misericórdia dele.' E Jesus lhe disse: 'Vai e faze o CONTRÁRIO.'"
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jesus said 'Go and do LIKEWISE' — one little word flipped the whole ending! ➡️",
+          "pt": "O detalhe trocado era: Jesus disse 'Vai e faze da MESMA MANEIRA' — uma palavrinha virou o final do avesso! ➡️"
+        }
+      }
+    ],
+    "correctIndex": 0,
+    "verse": {
+      "ref": {
+        "en": "Luke 10:27",
+        "pt": "Lucas 10:27"
+      },
+      "text": {
+        "en": "You shall love… your neighbor as yourself.",
+        "pt": "Amarás… o teu próximo como a ti mesmo."
+      }
+    },
+    "note": {
+      "en": "True love helps with actions, not just words. Be a good neighbor today! 🤝",
+      "pt": "O amor verdadeiro ajuda com ações, não só com palavras. Seja um bom próximo hoje! 🤝"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "water",
+    "title": {
+      "en": "Walking on Water",
+      "pt": "Andando sobre as Águas"
+    },
+    "intro": {
+      "en": "On a stormy night, the disciples saw SOMEONE walking on the sea! Four storytellers, one TRUTH. 🌊",
+      "pt": "Numa noite de tempestade, os discípulos viram ALGUÉM andando sobre o mar! Quatro contadores, uma VERDADE. 🌊"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "When Jesus said, 'Come!' — Peter stepped out onto the waves… and JOHN stepped out right beside him! The two of them walked together toward Jesus!",
+          "pt": "Quando Jesus disse: 'Vem!' — Pedro pisou sobre as ondas… e JOÃO saiu do barco bem ao lado dele! Os dois andaram juntos até Jesus!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: only PETER stepped out — John stayed in the boat, probably holding his breath! 😮",
+          "pt": "O detalhe trocado era: só PEDRO saiu do barco — João ficou no barco, provavelmente prendendo a respiração! 😮"
+        }
+      },
+      {
+        "text": {
+          "en": "Jesus invited everyone to join Him, so ALL TWELVE disciples climbed out of the boat and had a wonderful walk on the water together!",
+          "pt": "Jesus convidou todos para se juntarem a Ele, então os DOZE discípulos saíram do barco e passearam sobre as águas juntos!"
+        },
+        "blooper": {
+          "en": "The swapped detail was: only PETER got out of the boat — the other eleven watched with wide eyes! 👀",
+          "pt": "O detalhe trocado era: só PEDRO saiu do barco — os outros onze assistiram de olhos arregalados! 👀"
+        }
+      },
+      {
+        "text": {
+          "en": "Late in the night, Jesus came to them WALKING ON THE SEA. Peter cried, 'Lord, let me come to You!' — and he walked on the water too! But when he saw the strong wind, he was AFRAID and began to SINK. Jesus caught his hand and said, 'Why did you doubt?'",
+          "pt": "De madrugada, Jesus foi até eles ANDANDO SOBRE O MAR. Pedro gritou: 'Senhor, deixa-me ir até Ti!' — e ele também andou sobre as águas! Mas, vendo o vento forte, teve MEDO e começou a AFUNDAR. Jesus segurou sua mão e disse: 'Por que duvidaste?'"
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "Jesus was FAST ASLEEP on a pillow in the back of the boat the whole time and never even noticed the storm.",
+          "pt": "Jesus estava DORMINDO num travesseiro no fundo do barco o tempo todo e nem percebeu a tempestade."
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jesus came WALKING on the sea toward them — the sleeping-in-the-boat story happened in a different storm! 😴",
+          "pt": "O detalhe trocado era: Jesus veio ANDANDO sobre o mar até eles — a história dEle dormindo no barco foi outra tempestade! 😴"
+        }
+      }
+    ],
+    "correctIndex": 2,
+    "verse": {
+      "ref": {
+        "en": "Matthew 14:27",
+        "pt": "Mateus 14:27"
+      },
+      "text": {
+        "en": "Cheer up! It is I! Don't be afraid.",
+        "pt": "Tende bom ânimo! Sou eu. Não temais!"
+      }
+    },
+    "note": {
+      "en": "Keep your eyes on Jesus and don't be afraid — He will hold your hand! 🤝",
+      "pt": "Olhe sempre para Jesus e não tenha medo — Ele segura a sua mão! 🤝"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "tomb",
+    "title": {
+      "en": "The Empty Tomb",
+      "pt": "O Túmulo Vazio"
+    },
+    "intro": {
+      "en": "Early on Sunday morning, some women hurried to Jesus' tomb… Four storytellers will tell it — find the TRUTH, the happiest news ever! ☀️",
+      "pt": "Bem cedinho no domingo, algumas mulheres correram ao túmulo de Jesus… Quatro contadores vão contar — encontre a VERDADE, a notícia mais feliz de todas! ☀️"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "Very early on Sunday morning, the women hurried to the tomb — and found the great stone rolled away, with the Roman guards still standing at attention beside the open entrance.",
+          "pt": "Bem cedinho no domingo, as mulheres correram ao túmulo — e encontraram a grande pedra removida, com os guardas romanos ainda em posição de sentido ao lado da entrada aberta."
+        },
+        "blooper": {
+          "en": "The swapped detail was: the guards were LONG gone — they fled, and were later paid to spread a lie! No guards at the open tomb. 💂",
+          "pt": "O detalhe trocado era: os guardas tinham FUGIDO há muito tempo — e depois foram pagos para espalhar uma mentira! Nenhum guarda no túmulo aberto. 💂"
+        }
+      },
+      {
+        "text": {
+          "en": "The women arrived and found the great STONE rolled away and the tomb EMPTY! Angels in shining clothes said, 'He is not here — HE IS RISEN!' Then Jesus Himself appeared to Mary Magdalene — alive!",
+          "pt": "As mulheres chegaram e encontraram a grande PEDRA removida e o túmulo VAZIO! Anjos de roupas brilhantes disseram: 'Ele não está aqui — RESSUSCITOU!' Então o próprio Jesus apareceu a Maria Madalena — vivo!"
+        },
+        "blooper": null
+      },
+      {
+        "text": {
+          "en": "The angels in shining clothes said to the women, 'He is not here — He has RISEN, just as He said! Now go quickly and tell His disciples that He is going ahead of you to BETHLEHEM.'",
+          "pt": "Os anjos de roupas brilhantes disseram às mulheres: 'Ele não está aqui — RESSUSCITOU, como havia dito! Agora vão depressa e digam aos discípulos que Ele vai adiante de vocês para BELÉM.'"
+        },
+        "blooper": {
+          "en": "The swapped detail was: 'He is going before you into GALILEE' — not Bethlehem! One sneaky place-name. 🗺️",
+          "pt": "O detalhe trocado era: 'Ele vai adiante de vocês para a GALILEIA' — não Belém! Um nome de lugar sorrateiro. 🗺️"
+        }
+      },
+      {
+        "text": {
+          "en": "Later that same day, the risen Jesus appeared FIRST to Peter by the sea — and only afterwards did He appear to Mary Magdalene in the garden.",
+          "pt": "Mais tarde naquele mesmo dia, Jesus ressuscitado apareceu PRIMEIRO a Pedro, à beira-mar — e só depois apareceu a Maria Madalena no jardim."
+        },
+        "blooper": {
+          "en": "The swapped detail was: Jesus appeared FIRST to Mary Magdalene — Peter came later! A tiny swap with huge meaning. 👩",
+          "pt": "O detalhe trocado era: Jesus apareceu PRIMEIRO a Maria Madalena — Pedro veio depois! Uma troca mínima com um significado enorme. 👩"
+        }
+      }
+    ],
+    "correctIndex": 1,
+    "verse": {
+      "ref": {
+        "en": "Luke 24:6",
+        "pt": "Lucas 24:6"
+      },
+      "text": {
+        "en": "He isn't here, but is risen.",
+        "pt": "Ele não está aqui, mas ressuscitou."
+      }
+    },
+    "note": {
+      "en": "Jesus is ALIVE — the truest, happiest news in the whole world! 🎉",
+      "pt": "Jesus está VIVO — a notícia mais verdadeira e feliz do mundo inteiro! 🎉"
+    },
+    "difficulty": 5
+  },
+  {
+    "id": "paulsilas",
+    "title": {
+      "en": "Paul and Silas",
+      "pt": "Paulo e Silas"
+    },
+    "intro": {
+      "en": "Thrown in prison for doing good, Paul and Silas did something amazing at midnight! Four storytellers, one TRUTH. 🎶",
+      "pt": "Jogados na prisão por fazerem o bem, Paulo e Silas fizeram algo incrível à meia-noite! Quatro contadores, uma VERDADE. 🎶"
+    },
+    "versions": [
+      {
+        "text": {
+          "en": "At DAWN, just as the first light touched the prison walls, Paul and Silas prayed and sang hymns to God, and the other prisoners listened quietly.",
+          "pt": "Ao AMANHECER, quando a primeira luz tocava os muros da prisão, Paulo e Silas oravam e cantavam hinos a Deus, e os outros presos ouviam em silêncio."
+        },
+        "blooper": {
+          "en": "The swapped detail was: it was MIDNIGHT — they sang in the darkest hour, literally! 🌙",
+          "pt": "O detalhe trocado era: era MEIA-NOITE — eles cantaram na hora mais escura, literalmente! 🌙"
+        }
+      },
+      {
+        "text": {
+          "en": "The jailer fell trembling before them and asked, 'Sirs, what must I do to be saved?' Paul answered, 'Believe in the Lord Jesus — and YOU ALONE will be saved.'",
+          "pt": "O carcereiro caiu tremendo diante deles e perguntou: 'Senhores, que devo fazer para me salvar?' Paulo respondeu: 'Crê no Senhor Jesus — e SOMENTE TU serás salvo.'"
+        },
+        "blooper": {
+          "en": "The swapped detail was: 'you will be saved, YOU AND YOUR HOUSEHOLD' — the promise was for the whole family! 👨‍👩‍👧‍👦",
+          "pt": "O detalhe trocado era: 'serás salvo, TU E A TUA CASA' — a promessa era para a família inteira! 👨‍👩‍👧‍👦"
+        }
+      },
+      {
+        "text": {
+          "en": "Suddenly an earthquake shook the prison to its foundations! All the doors flew open at once — but the CHAINS stayed firmly locked on their wrists.",
+          "pt": "De repente um terremoto sacudiu a prisão até os alicerces! Todas as portas se abriram de uma vez — mas as CORRENTES continuaram firmemente trancadas nos pulsos deles."
+        },
+        "blooper": {
+          "en": "The swapped detail was: 'EVERYONE's chains were loosed' — not a single chain stayed on! ⛓️",
+          "pt": "O detalhe trocado era: 'as cadeias de TODOS se soltaram' — nenhuma corrente ficou presa! ⛓️"
+        }
+      },
+      {
+        "text": {
+          "en": "At MIDNIGHT, Paul and Silas PRAYED and SANG hymns to God, and the other prisoners listened! Then an earthquake shook the prison — doors swung open and chains fell off! The jailer trembled and asked, 'What must I do to be saved?' They answered: 'Believe in the Lord Jesus, and you will be saved!'",
+          "pt": "À MEIA-NOITE, Paulo e Silas ORAVAM e CANTAVAM hinos a Deus, e os outros presos ouviam! Então um terremoto sacudiu a prisão — as portas se abriram e as correntes caíram! O carcereiro, tremendo, perguntou: 'Que devo fazer para me salvar?' Eles responderam: 'Crê no Senhor Jesus, e serás salvo!'"
+        },
+        "blooper": null
+      }
+    ],
+    "correctIndex": 3,
+    "verse": {
+      "ref": {
+        "en": "Acts 16:31",
+        "pt": "Atos 16:31"
+      },
+      "text": {
+        "en": "Believe in the Lord Jesus Christ, and you will be saved, you and your household.",
+        "pt": "Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa."
+      }
+    },
+    "note": {
+      "en": "Sing to God even on hard days — His joy and freedom are always true! 🎵",
+      "pt": "Cante para Deus até nos dias difíceis — a alegria e a liberdade dEle são sempre verdadeiras! 🎵"
+    },
+    "difficulty": 5
+  }
+]
